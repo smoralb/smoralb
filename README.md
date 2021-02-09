@@ -3,4 +3,4 @@
 
 ### Most recent project
 
-[![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&theme=radical)](https://github.com/smoralb/CatsList)
+[![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&theme=radical&bg_color=30,FF512F,F09819)](https://github.com/smoralb/CatsList)
