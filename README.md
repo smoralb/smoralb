@@ -1,7 +1,7 @@
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true&bg_color=30,FF512F,F09819&title_color=6CD4FF&text_color=fff&icon_color=6CD4FF)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true&bg_color=30,FF512F,F09819&title_color=fff&text_color=fff&icon_color=6CD4FF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoralb&bg_color=30,FF512F,F09819&title_color=fff)](https://github.com/smoralb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoralb&bg_color=30,FF512F,F09819&title_color=fff&text_color=fff)](https://github.com/smoralb/github-readme-stats)
 
 ### Most recent project
 
-[![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&theme=radical&bg_color=30,FF512F,F09819)](https://github.com/smoralb/CatsList)
+[![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&title_color=fff&text_color=fff&bg_color=30,FF512F,F09819)](https://github.com/smoralb/CatsList)
