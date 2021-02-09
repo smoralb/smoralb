@@ -4,3 +4,10 @@
 ### Most recent project
 
 [![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&theme=radical&bg_color=30,FF512F,F09819)](https://github.com/smoralb/CatsList)
+
+<a href="https://github.com/smoralb/CatsList">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList" />
+</a>
