@@ -26,7 +26,7 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 `Email` - smoralber@gmail.com
 
-<img src=https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true alt=Sergio />
+<p><img src=https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true alt=Sergio /></p>
 
 ### Most recent project
 
