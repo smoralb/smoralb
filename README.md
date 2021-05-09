@@ -23,10 +23,10 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 📫 How to reach me:
 
-`Website` - (https://www.sergiomoralbermudez.com)
+`Website` - https://www.sergiomoralbermudez.com
 
 `Email` - smoralber@gmail.com
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=smoralbr&show_icons=true alt=Sergio />
+	<img src=https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true alt=Sergio />
 </p>
