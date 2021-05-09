@@ -1,11 +1,3 @@
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true&bg_color=30,FF512F,F09819&title_color=fff&text_color=fff&icon_color=6CD4FF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoralb&bg_color=30,FF512F,F09819&title_color=fff&text_color=fff)](https://github.com/smoralb/github-readme-stats)
-
-### Most recent project
-
-[![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&title_color=fff&text_color=fff&bg_color=30,FF512F,F09819&icon_color=6CD4FF)](https://github.com/smoralb/CatsList)
-
-
 <p align="center"> <h1 align="center"> Sergio Moral </h1> </p>
 <p align="center">
 <a href="https://github.com/smoralb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sergio Moral" height="20" width="20" /></a>
