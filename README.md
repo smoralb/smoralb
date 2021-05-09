@@ -10,7 +10,7 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 👯 I’m looking to collaborate on Android (Kotlin) projects.
 
-🌱 I’m currently learning Web frontend
+🌱 I’m currently learning Web development
 
 📫 How to reach me:
 
