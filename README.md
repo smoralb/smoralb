@@ -6,7 +6,7 @@
 
 I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
-🔭 I’m currently working on https://github.com/smoralb/BaseApplication
+🔭 I’m currently working on [Base Application](https://github.com/smoralb/BaseApplication) 
 
 👯 I’m looking to collaborate on Android (Kotlin) projects.
 
