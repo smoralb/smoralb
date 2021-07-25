@@ -24,6 +24,4 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 ### Most recent project
 
-[![Base Application](https://github.com/smoralb/BaseApplication)
-
 [![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&icon_color=6CD4FF)](https://github.com/smoralb/CatsList)
