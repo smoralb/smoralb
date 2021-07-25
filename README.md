@@ -24,4 +24,4 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 ### Most recent project
 
-[![Base Application]](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=BaseApplication&icon_color=6CD4FF)
+[![Base Application](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=BaseApplication&icon_color=6CD4FF)]
