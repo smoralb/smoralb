@@ -10,7 +10,7 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 👯 I’m looking to collaborate on Android (Kotlin) projects.
 
-🌱 I’m currently learning Web development
+🌱 I’m currently learning Android!
 
 📫 How to reach me:
 
@@ -18,8 +18,12 @@ I'm Sergio. I'm an Android Developer who is passionate about creating technology
 
 `Email` - smoralber@gmail.com
 
+`Medium` - https://medium.com/@smoralber
+
 <p><img src=https://github-readme-stats.vercel.app/api?username=smoralb&show_icons=true alt=Sergio /></p>
 
 ### Most recent project
+
+[![Base Application](https://github.com/smoralb/BaseApplication)
 
 [![CatsList](https://github-readme-stats.vercel.app/api/pin/?username=smoralb&repo=CatsList&icon_color=6CD4FF)](https://github.com/smoralb/CatsList)
